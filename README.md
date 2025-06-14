@@ -1,5 +1,4 @@
 # 📦 Robust Supply Chain Optimization Using Monte Carlo Simulation
-## 🌍 Global Supply Chain – Interactive Map
 
 ![image](https://github.com/user-attachments/assets/eaead3ed-c860-424b-9bb3-ad7fb9eb1f9d)
 
