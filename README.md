@@ -5,6 +5,7 @@ This project implements a robust supply chain network design methodology using *
 ---
 
 ## 🧠 Objective
+![image](https://github.com/user-attachments/assets/c9d1f7e4-5f3e-41d1-a31f-e7bc470e4fa9)
 
 Design a supply chain network that minimizes:
 - Fixed costs of opening manufacturing plants
