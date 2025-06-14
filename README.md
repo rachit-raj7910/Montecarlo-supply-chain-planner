@@ -1,9 +1,8 @@
 # 📦 Robust Supply Chain Optimization Using Monte Carlo Simulation
 ## 🌍 Global Supply Chain – Interactive Map
 
-![Preview](images/supply_chain_map_preview.png)
+![image](https://github.com/user-attachments/assets/eaead3ed-c860-424b-9bb3-ad7fb9eb1f9d)
 
-🔗 [Click here to explore the interactive version](https://yourusername.github.io/your-repo-name/supply_chain_map.html)
 
 
 This project implements a robust supply chain network design methodology using **Monte Carlo simulation** combined with **Linear Programming optimization**. The model accounts for **demand uncertainty** and helps in identifying the most cost-effective and reliable configuration of plants for an international business.
